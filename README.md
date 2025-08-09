@@ -1,1 +1,1 @@
-# PINN-for-PDE
+# PINN-for-Burgers Equation
